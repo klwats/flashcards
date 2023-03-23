@@ -1,4 +1,5 @@
-const Turn = require("../src/Turn");
+const Turn = require("./Turn");
+const Deck = require("./Deck")
 
 
 class Round {
