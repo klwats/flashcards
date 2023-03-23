@@ -12,6 +12,7 @@ This app allows the user to play a flashcard game. The user is given a multiple 
 - Terminal
 - VS Code
 
+![Screenshot 2023-03-22 at 9 11 46 PM](https://user-images.githubusercontent.com/115050167/227094016-e350be68-1952-477e-92ab-0b67bc9da8a2.png)
 
 
 
