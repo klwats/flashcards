@@ -72,6 +72,6 @@ describe('Round', function () {
     it('should have a method that tells the player what percent they got correct', function () {
         round.takeTurn('sea otter')
 
-        expect(round.endRound()).to.equal(console.log(`** Round over! ** You answered 100% of the questions correctly!`))
+        expect(round.endRound()).to.equal(`** Round over! ** You answered 100% of the questions correctly!`)
     })
 })
